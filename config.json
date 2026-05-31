@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderrtringify",
+        "uuid": 4695778,
+        "checksum": "c92nad"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
